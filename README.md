@@ -1,3 +1,6 @@
+### POINTS: 1.5
+### KEY: Good job on the work you did, but no comments :-(
+
 # Django Models and Foreign keys
 
 ### Exercise 1
